@@ -13,6 +13,15 @@ The process is based on the small, filtered-data GLIDE model [1] with classifier
 
 Results consist of 64x64 images, and the corresponding 256x256 upsampled versions.
 
+## Safety considerations
+
+The *small* model has 300 million parameters, compared to the unreleased 3.5 billion parameter model.
+
+As described in Appendix F.1, the training dataset was *filtered* so that it would not contain:
+-   images of humans and human-like objects,
+-   images of violent objects,
+-   two prevalent hate symbols in America (swastika and confederate flag).
+
 ## References
 
 [1] Alex Nichol, Prafulla Dhariwal, Aditya Ramesh, et al. *GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models*. [arXiv preprint 2112.10741][openai-glide-paper]. 2021.

@@ -15,6 +15,8 @@ The process is based on the small, filtered-data GLIDE model, with classifier-fr
 
 Results consist of 64x64 images, and the corresponding 256x256 upsampled versions.
 
+Expected run-time: 2m30s (for the one-time set-up), 1 min (64x64 sampling), 30 sec (256x256 upsampling).
+
 ---
 
 <img alt="Sample" src="https://github.com/woctezuma/glide-text2im-colab/wiki/img/sample_A.png" height="256"><img alt="Sample" src="https://github.com/woctezuma/glide-text2im-colab/wiki/img/sample_B.png" height="256"><img alt="Sample" src="https://github.com/woctezuma/glide-text2im-colab/wiki/img/sample_C.png" height="256">

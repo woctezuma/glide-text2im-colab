@@ -1,6 +1,6 @@
 # GLIDE text2im on Colab
 
-This repository provides a Colab notebook to produce images conditioned on text prompts with [GLIDE][openai-glide-code].
+This repository provides a Colab notebook to produce images conditioned on text prompts with [GLIDE][openai-glide-code] [1].
 
 ## Usage
 
@@ -9,7 +9,7 @@ This repository provides a Colab notebook to produce images conditioned on text 
 
 ## Results
 
-The process is based on the small, filtered-data GLIDE model [1] with classifier-free guidance.
+The process is based on the small, filtered-data GLIDE model, with classifier-free guidance.
 
 Results consist of 64x64 images, and the corresponding 256x256 upsampled versions.
 

@@ -7,6 +7,8 @@ This repository provides a Colab notebook to produce images conditioned on text 
 -   Run [`text2im.ipynb`][colab-notebook-text2im]
 [![Open In Colab][colab-badge]][colab-notebook-text2im]
 
+Tip: press `<Ctrl+F9>` to run everything.
+
 ## Results
 
 The process is based on the small, filtered-data GLIDE model, with classifier-free guidance.

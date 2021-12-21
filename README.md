@@ -13,6 +13,14 @@ The process is based on the small, filtered-data GLIDE model, with classifier-fr
 
 Results consist of 64x64 images, and the corresponding 256x256 upsampled versions.
 
+---
+
+<img alt="Sample" src="https://github.com/woctezuma/glide-text2im-colab/wiki/img/sample_A.png" height="224"><img alt="Sample" src="https://github.com/woctezuma/glide-text2im-colab/wiki/img/sample_B.png" height="224"><img alt="Sample" src="https://github.com/woctezuma/glide-text2im-colab/wiki/img/sample_C.png" height="224">
+
+<sub>
+Several samples obtained with the same prompt: "a magnificent French rooster singing".
+</sub>
+
 ## Safety considerations
 
 The *small* model has 300 million parameters, compared to the unreleased 3.5 billion parameter model.

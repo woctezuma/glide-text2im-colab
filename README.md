@@ -1,6 +1,6 @@
 # GLIDE text2im on Colab
 
-The goal of this repository is to provide a Colab notebook to apply [GLIDE][openai-glide-code] to produce images conditioned on text prompts.
+The goal of this repository is to provide a Colab notebook to produce images conditioned on text prompts with [GLIDE][openai-glide-code].
 
 ## Usage
 
